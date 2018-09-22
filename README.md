@@ -9,7 +9,7 @@ mvn archetype:generate \
   -DarchetypeArtifactId=maven-archetype-quickstart \
   -DinteractiveMode=false
 ````
-cd my-app
+cd my-java-app
 
 ## Add maven-compiler-plugin plugin as demonstrated in pom
 This is to lock jdk and jre version
